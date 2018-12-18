@@ -12,8 +12,7 @@ void main()
 	int horasTrabajadas;
 	float costoHora;
 	float sueldo;
-	<< salida de mensajes
-	>> Guarda alguna variable (introducido)
+	//>> Guarda alguna variable (introducido)
 	//<<Salida de mensajes 
 	cout <<"INGRESE HRS TRABAJAS POR EL OPERACION";
 	// el(>>)A guarda el dato en la variable horasTrabajadas
